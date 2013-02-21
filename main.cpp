@@ -17,17 +17,17 @@ bool	init_credit(Window* screen)
 		delete credit;
 		return 1;
 	}
-	if (credit->Add_text("MEYER Benjamin", 300, 175, 150, 150, 150))
+	if (credit->Add_text("", 300, 175, 150, 150, 150))
 	{
 		delete credit;
 		return 1;
 	}
-	if (credit->Add_text("DELAGREE Cedric", 300, 275, 150, 150, 150))
+	if (credit->Add_text("", 300, 275, 150, 150, 150))
 	{
 		delete credit;
 		return 1;
 	}
-	if (credit->Add_text("HUYNH Yves", 300, 375, 150, 150, 150))
+	if (credit->Add_text("", 300, 375, 150, 150, 150))
 	{
 		delete credit;
 		return 1;
